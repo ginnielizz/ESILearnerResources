@@ -6,5 +6,5 @@
 
 ## Less official resources:
 ###### These folks now also work for Microsoft, but have a long history of creating helpful Azure/Microsoft study resources since before we scooped them up.
-- [Thomas Maurer's exam prep guide](https://www.thomasmaurer.ch/2019/09/how-to-prepare-and-pass-a-microsoft-azure-exam/)
+- [Thomas Maurer's exam prep guide](https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-prepare-for-a-microsoft-azure-certification-exam/ba-p/2103417?WT.mc_id=modinfra-0000-thmaure&_lrsc=b11b902b-cb9e-4f0c-931c-e0bfe005814f)
 - [John Savill's YouTube channel](https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ)
