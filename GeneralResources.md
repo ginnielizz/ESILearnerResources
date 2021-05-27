@@ -3,7 +3,7 @@
 - [Exam Discount Video](https://www.microsoft.com/en-us/videoplayer/embed/RE4zwHz)
 - [ESI customer portal](https://esi.microsoft.com/)
 - [Microsoft exam question types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
-- [ESI Study Guides](https://aka.ms/ESIStudyGuides)
+- [ESI Study Guides](https://aka.ms/ESIStudyGuides) for various exams
 
 ## Azure Resources:
 - [Microsoft Learn](http://www.microsoft.com/learn)
