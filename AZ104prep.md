@@ -1,6 +1,6 @@
 # AZ-104
 ## Labs
--[AZ-104 Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) - this Github link will be updated continuously as the labs are improved over time. You'll need your own Azure subscription after your Azure Pass expires.
+- [AZ-104 Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) - this Github link will be updated continuously as the labs are improved over time. You'll need your own Azure subscription after your Azure Pass expires.
 
 ## Module documentation
 - For links to relevant documentation, please view the [Study guides](https://aka.ms/ESIStudyGuides) link on my  [General Resources](https://github.com/ginnielizz/ESILearnerResources/blob/main/GeneralResources.md) page and seek the AZ-104 study guide. (The direct link target changes regularly.)
