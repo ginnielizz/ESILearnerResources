@@ -7,7 +7,6 @@
 
 ## Azure Resources:
 - [Microsoft Learn](http://www.microsoft.com/learn)
-- Azure Skilling on [Pluralsight](https://www.pluralsight.com/partners/microsoft/azure)
 - [Azure Fridays](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
 - [Channel 9](https://channel9.msdn.com/)
 - [Azure blog](https://azure.microsoft.com/en-us/blog/)
