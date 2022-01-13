@@ -13,5 +13,8 @@
 - I like this external [Subnet mask cheat sheet](https://cnes.com/subnets.html) link because I hate trying to make my brain process CIDR notation.
 - That said, you should understand the basics of CIDR notation. :) Check out [this post](https://techcommunity.microsoft.com/t5/itops-talk-blog/configuring-azure-virtual-network-subnets-with-cidr-notation/ba-p/2047809) for help.
 
-## External learning
+### Serverless
 - For folks who want to learn more about Kubernetes and how it works, this [video by Carson](https://vimeo.com/245778144/4d1d597c5e) is old but a pretty solid explanation that holds up well. He starts from basics and gets deeper and deeper as it goes on.
+
+## External exam resources
+- John Savill is a terrific Azure YouTuber; his [AZ-104 Exam Cram video](https://www.youtube.com/watch?v=VOod_VNgdJk) is a good overview of everything we covered this week. It's not short, so plan to watch over multiple sessions!
