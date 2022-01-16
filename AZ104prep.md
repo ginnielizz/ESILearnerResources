@@ -1,7 +1,7 @@
 # AZ-104
 ## Labs and Learn content
-- [Learn collection for AZ-104 including both labs and lessons](https://aka.ms/AZ-104LearningPaths) - this new Learn collection contains all the lessons from AZ-104 plus all the lab exercises in one convenient place. This can replace your Skillpipe guide. However, please do file any issues you encounter with the collection or its contents, as this is a new migration effort. Thank for your contributions, and we hope you find this new method helpful and easier to access!
-- [AZ-104 Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) - this Github link will be updated continuously as the labs are improved over time. You'll need your own Azure subscription after your Azure Pass expires.
+- [Learn collection for AZ-104](https://aka.ms/AZ-104LearningPaths) - this new Learn collection contains all the lessons from AZ-104 in one convenient place, and as such it can replace your Skillpipe guide. However, please do file any issues you encounter with the collection or its contents, as this is a new migration effort. Thank for your contributions, and we hope you find this new method helpful and easier to access!
+- [AZ-104 Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) - this Github link contains all the AZ-104 labs and will be updated continuously as the labs are improved over time. You'll need your own Azure subscription after your Azure Pass expires.
 
 ## Module documentation
 - For links to relevant documentation, please view the [Study guides](https://aka.ms/ESIStudyGuides) link on my  [General Resources](https://github.com/ginnielizz/ESILearnerResources/blob/main/GeneralResources.md) page and seek the AZ-104 study guide. (The direct link target changes regularly.)
