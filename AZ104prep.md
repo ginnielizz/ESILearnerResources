@@ -16,7 +16,7 @@
 ### Serverless
 - For folks who want to learn more about Kubernetes and how it works, this [video by Carson](https://vimeo.com/245778144/4d1d597c5e) is old but a pretty solid explanation that holds up well. He starts from basics and gets deeper and deeper as it goes on.
 
-###Monitoring
+### Monitoring
 - Cheat sheets for Kusto Query Language "KQL" from [SQL](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet), [Splunk](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/splunk-cheat-sheet)
 
 ## External exam resources
