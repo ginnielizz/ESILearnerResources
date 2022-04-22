@@ -6,6 +6,7 @@
 - [ML Practice Guides](https://github.com/nthacker/ML-Practice-Guides)
 - [Machine Learning Example Notebooks](https://github.com/Azure/MachineLearningNotebooks)
 - [Book on Azure Machine Learning](https://www.amazon.com/Mastering-Azure-Machine-Learning-end/dp/1789807557)
+- -[github labs link](https://microsoftlearning.github.io/mslearn-dp100/)
 
 # Resources per module according to DP-100 course
 ## Module 1:
