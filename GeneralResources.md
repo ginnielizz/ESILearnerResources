@@ -4,7 +4,7 @@
 - [ESI customer portal](https://esi.microsoft.com/)
 - [Learn on Demand](https://esi.learnondemand.net/) (Hosted Lab VMs)
 - [Microsoft exam question types](https://docs.microsoft.com/en-us/learn/certifications/exam-duration-question-types#question-types-on-exams)
-- [ESI Study Guides](https://aka.ms/ESIStudyGuides) for various exams
+- [ESI Study Guides](https://aka.ms/ESIStudyGuides) for various exams - most of these are mostly replaced by each course's dedicated Learn collection, but preserving the link in case it's helpful. 
 
 ## Azure Resources:
 - [Microsoft Learn](http://www.microsoft.com/learn)
@@ -14,6 +14,9 @@
 - [Azure forums](https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/)
+- [Total Cost of Ownership calculator](https://azure.microsoft.com/en-gb/pricing/tco/?msclkid=352f3d05c56811ecbd6f5b2ba24eefbb)
+- [Limits, quotas, and constraints page](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
+- 
 
 ## Less official resources:
 ###### These folks now also work for Microsoft, but have a long history of creating helpful Azure/Microsoft study resources since before we scooped them up.
