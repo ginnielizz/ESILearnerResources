@@ -16,7 +16,7 @@
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-in/pricing/calculator/)
 - [Total Cost of Ownership calculator](https://azure.microsoft.com/en-gb/pricing/tco/?msclkid=352f3d05c56811ecbd6f5b2ba24eefbb)
 - [Limits, quotas, and constraints page](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
-- 
+- [Microsoft Technical Trainer Community YouTube channel](https://www.youtube.com/c/MicrosoftTrainerCommunityChannel)
 
 ## Less official resources:
 ###### These folks now also work for Microsoft, but have a long history of creating helpful Azure/Microsoft study resources since before we scooped them up.
